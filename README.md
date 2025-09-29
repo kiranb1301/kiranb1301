@@ -1,22 +1,30 @@
+<div align="center">
+
 # Hi there 👋, I'm Kiran  
 
-<img src="https://raw.githubusercontent.com/kiranb1301/kiranb1301/main/assets/photo.png" alt="Kiran's Photo" width="200" align="right"/>
+<img src="https://raw.githubusercontent.com/kiranb1301/kiranb1301/main/assets/photo.png" alt="Kiran's Photo" width="200" style="border-radius: 50%"/>
 
 💻 **Python Enthusiast** | 🌱 **Open Source Contributor** | 🚀 **Learning Frappe & ERPNext**  
+
+![GitHub followers](https://img.shields.io/github/followers/kiranb1301?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/kiranb1301?label=Stars&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=kiranb1301&color=blue)
+
+</div>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently exploring **Open Source Contributions**  
+- 🔭 Exploring **Open Source Contributions**  
 - 🌱 Learning **Python, Django, Frappe Framework, and FastAPI**  
 - ☁️ Worked with **AWS S3, OpenSearch, and X-FlowPay integration**  
 - 💡 Curious about **AI, Web Development, and Automation**  
 - 👯 Looking to collaborate on **Python/Django projects**  
-- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-kiranbade1301@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:kiranbade1301@gmail.com)  
+- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-badekiran67@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:badekiran67@gmail.com)  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -44,36 +52,37 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranb1301&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranb1301&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kiranb1301&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- [Smart City Traffic Analysis](https://github.com/kiranb1301/smart-traffic) – Django + ML + Real-time pipeline  
-- [Quiz Application](https://github.com/kiranb1301/quiz-app) – Django REST + PostgreSQL + Frontend  
-- [EpiRecipe Search](https://github.com/kiranb1301/epi-recipe) – NLP + OpenSearch + Django  
-- [Payment Integration](https://github.com/kiranb1301/payment-integration) – X-FlowPay + Django REST  
+## 🚀 Featured Projects  
+
+- 📊 [**Smart City Traffic Analysis**](https://github.com/kiranb1301/smart-traffic) → Django + ML + Real-time pipeline  
+- 🎮 [**Quiz Application**](https://github.com/kiranb1301/quiz-app) → Django REST + PostgreSQL + Frontend  
+- 🍲 [**EpiRecipe Search**](https://github.com/kiranb1301/epi-recipe) → NLP + OpenSearch + Django  
+- 💳 [**Payment Integration**](https://github.com/kiranb1301/payment-integration) → X-FlowPay + Django REST  
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Portfolio & Links  
+
 - [🌍 Portfolio Website](https://your-portfolio-link.com)  
 - [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- [📂 Projects](https://github.com/kiranb1301?tab=repositories)  
+- [📂 All Projects](https://github.com/kiranb1301?tab=repositories)  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiranb1301&color=blue" alt="Profile Views"/>  
-  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
 
