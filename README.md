@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Kiran  
 
-<img src="https://raw.githubusercontent.com/kiranb1301/kiranb1301/main/assets/photo.png" alt="Kiran's Photo" width="200" style="border-radius: 50%"/>
+<img src="https://raw.githubusercontent.com/kiranb1301/kiranb1301/blob/main/KiranPassportPhoto%20(2).JPG" alt="Kiran's Photo" width="200" style="border-radius: 50%"/>
 
 💻 **Python Enthusiast** | 🌱 **Open Source Contributor** | 🚀 **Learning Frappe & ERPNext**  
 
