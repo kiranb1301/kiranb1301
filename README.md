@@ -8,69 +8,59 @@
 
 ## 🌟 About Me
 - 🔭 Currently exploring **Open Source Contributions**  
-- 🌱 Learning **Python, Django, Frappe Framework**  
+- 🌱 Learning **Python, Django, Frappe Framework, and FastAPI**  
+- ☁️ Worked with **AWS S3, OpenSearch, and X-FlowPay integration**  
 - 💡 Curious about **AI, Web Development, and Automation**  
 - 👯 Looking to collaborate on **Python/Django projects**  
-- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:your@email.com)  
+- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-kiranbade1301@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:kiranbade1301@gmail.com)  
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <!-- Frameworks -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://frappeframework.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://frappe.io/files/frappe-logo.png" alt="Frappe" width="40" height="40"/> 
-  </a>
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-Framework-blue?style=flat&logo=frappe)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![X-FlowPay](https://img.shields.io/badge/X--FlowPay-Integration-orange?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranb1301&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranb1301&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranb1301&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranb1301&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranb1301&layout=compact&theme=radical)  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiranb1301&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=kiranb1301&theme=onedark)  
+## 🚀 Featured Projects
+- [Smart City Traffic Analysis](https://github.com/kiranb1301/smart-traffic) – Django + ML + Real-time pipeline  
+- [Quiz Application](https://github.com/kiranb1301/quiz-app) – Django REST + PostgreSQL + Frontend  
+- [EpiRecipe Search](https://github.com/kiranb1301/epi-recipe) – NLP + OpenSearch + Django  
+- [Payment Integration](https://github.com/kiranb1301/payment-integration) – X-FlowPay + Django REST  
 
 ---
 
@@ -78,6 +68,14 @@
 - [🌍 Portfolio Website](https://your-portfolio-link.com)  
 - [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
 - [📂 Projects](https://github.com/kiranb1301?tab=repositories)  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiranb1301&color=blue" alt="Profile Views"/>  
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
 
 ---
 
