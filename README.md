@@ -20,7 +20,14 @@
 - ☁️ Worked with **AWS S3, OpenSearch, and X-FlowPay integration**  
 - 💡 Curious about **AI, Web Development, and Automation**  
 - 👯 Looking to collaborate on **Python/Django projects**  
-- 📫 Reach me at: [![Gmail Badge](https://img.shields.io/badge/-badekiran67@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:badekiran67@gmail.com)  
+
+---
+
+## 📫 Reach Me At  
+[![Gmail Badge](https://img.shields.io/badge/-badekiran67@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:badekiran67@gmail.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Kiran%20Bade-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-bade-631169279/)  
+[![Instagram Badge](https://img.shields.io/badge/-@its_kiran.131-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_kiran.131/)  
+[![LeetCode Badge](https://img.shields.io/badge/-Kiran131-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Kiran131/)  
 
 ---
 
