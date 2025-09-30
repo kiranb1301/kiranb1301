@@ -74,17 +74,16 @@
 
 ## 🚀 Featured Projects  
 
-- 📊 [**Smart City Traffic Analysis**](https://github.com/kiranb1301/smart-traffic) → Django + ML + Real-time pipeline  
-- 🎮 [**Quiz Application**](https://github.com/kiranb1301/quiz-app) → Django REST + PostgreSQL + Frontend  
-- 🍲 [**EpiRecipe Search**](https://github.com/kiranb1301/epi-recipe) → NLP + OpenSearch + Django  
+- 📊 [**Smart City Traffic Analysis**](https://github.com/kiranb1301/Smart-Traffic-Analysis-and-Management) → Django + ML + Real-time pipeline   
+- 🍲 [**EpiRecipe Search**](https://github.com/kiranb1301/EPI-Recipe-Search) → OpenSearch + Django + Frontend
 - 💳 [**Payment Integration**](https://github.com/kiranb1301/payment-integration) → X-FlowPay + Django REST  
 
 ---
 
 ## 🌐 Portfolio & Links  
 
-- [🌍 Portfolio Website](https://your-portfolio-link.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [🌍 Portfolio Website](https://#)  
+- [💼 LinkedIn](https://www.linkedin.com/in/kiran-bade-631169279)  
 - [📂 All Projects](https://github.com/kiranb1301?tab=repositories)  
 
 ---
